@@ -95,7 +95,7 @@ Let:
 - `P_remove` = probability after tumor removal  
 - `P_only` = probability on tumor-only image
 
-###Delta-Drop
+### Delta-Drop
 Delta-Drop = P_orig - P_remove
 
 Measures reduction in confidence after tumor removal.  
